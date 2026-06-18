@@ -1,6 +1,4 @@
 
-#include <stdio.h>
-
 int main() {
     int num, i, isPrime = 1;
 
